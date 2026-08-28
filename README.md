@@ -50,21 +50,49 @@ Campus Carts aims to provide a simple and accessible solution to these problems.
 
 
 
-Campus Carts is designed primarily for:
+## User Personas
 
+### Persona 1 — Student Food Vendor
 
+*Name:* Daniel
 
-\- Student businesses
+*Role:* University student selling food on campus
 
-\- University entrepreneurs
+*Needs:*
 
-\- Pop-up vendors
+- Track food stock
+- Quickly calculate customer orders
+- Generate receipts
+- Reduce calculation errors
 
-\- Small campus retailers
+*Problem:*
 
-\- Student event sellers
+Daniel currently uses a notebook to track his stock and manually calculates customer totals.
 
+*How Campus Cart Helps:*
 
+Campus Cart provides stock tracking and automatic cart calculations.
+
+### Persona 2 — Pop-Up Clothing Vendor
+
+*Name:* Sarah
+
+*Role:* Student selling clothing at university events
+
+*Needs:*
+
+- Track available products
+- Monitor stock levels
+- Process sales quickly
+- Know the total value of each sale
+
+*Problem:*
+
+Sarah has difficulty keeping track of different products and quantities during busy events.
+
+*How Campus Cart Helps:*
+
+Campus Cart provides a simple way to manage products and process sales.
 
 \## Key Value Propositions
 
