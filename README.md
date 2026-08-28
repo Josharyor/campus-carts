@@ -96,7 +96,7 @@ Campus Cart provides a simple way to manage products and process sales.
 
 \## Key Value Propositions
 
-
+Campus Cart helps small vendors manage sales efficiently with an easy-to-use system.
 
 \### Simple Stock Tracking
 
